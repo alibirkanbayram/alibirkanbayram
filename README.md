@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/alibirkanbay" target="blank"><img src="https://img.shields.io/twitter/follow/alibirkanbay?logo=twitter&style=for-the-badge" alt="alibirkanbay" /></a> </p>
 
-- 🔭 I’m currently working on [WE](https://github.com/Github-WE-Team/WE)
+- 🔭 I’m currently working on [DOTS OS](https://github.com/DOTS-Farming-O-S)
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Flutter & React native**
 
 - 💬 Ask me about **Embedded systems, python**
 
