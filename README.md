@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DOTS OS](https://github.com/DOTS-Farming-O-S)
 
-- 🌱 I’m currently learning **Flutter & React native**
+- 🌱 I’m currently learning **Flutter & React**
 
 - 💬 Ask me about **Embedded systems, python**
 
